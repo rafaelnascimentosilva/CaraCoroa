@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".CaraActivity" />
+        <activity android:name=".CoroaActivity"></activity>
     </application>
 
 </manifest>
